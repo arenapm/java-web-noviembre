@@ -24,6 +24,7 @@
     <module>ws-soap-client</module>
     <module>app-ws-rest-server</module>
     <module>app-jsf-webapp</module>
-  </modules>
+    <module>app-spring-mvc</module>
+</modules>
   
 </project>
